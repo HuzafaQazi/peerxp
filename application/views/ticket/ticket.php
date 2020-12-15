@@ -769,7 +769,7 @@ else if($data['departmentId']=='7189000000051431'){
 						<input class="inputBox" type="text" name="" value="<?php echo $data['webUrl']; ?>" placeholder="Project URL" autofocus="">
 					</dd>
 				</dl>
-				<dl style="position:relative;top:100px;right:200px;">
+				<dl>
 				
 				
 				
