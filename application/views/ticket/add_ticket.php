@@ -365,7 +365,7 @@ document.getElementById("submit").style.display="none";
          				 timer: 2500
                      }).then((result) => {
                          if (result.value) {
-                           //location.href = 'edit_user?id='+<?php echo $res;?>
+                          
                          }else{
          					  return false;
          				}
@@ -382,7 +382,7 @@ document.getElementById("submit").style.display="none";
          				 timer: 2500
                      }).then((result) => {
                          if (result.value) {
-                           //location.href = 'edit_user?id='+<?php echo $res;?>
+                         
                          }else{
          					  return false;
          				}
