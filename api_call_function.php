@@ -1,7 +1,7 @@
 <?php
 
 function callAPI($method, $url, $data){
-	print_r($data);
+	//print_r($data);
    $curl = curl_init();
 
    switch ($method){
